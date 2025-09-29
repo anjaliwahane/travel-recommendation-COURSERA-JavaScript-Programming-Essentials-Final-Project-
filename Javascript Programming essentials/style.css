@@ -51,4 +51,22 @@ section {
 .recommendations img {
     width: 100%;
     border-radius: 8px;
+
+}
+
+.search-section {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.search-section input {
+    padding: 8px;
+    width: 200px;
+    margin-right: 10px;
+}
+
+.search-section button {
+    padding: 8px 12px;
+    margin-right: 5px;
+    cursor: pointer;
 }
